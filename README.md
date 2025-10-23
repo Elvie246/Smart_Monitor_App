@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+![Aperçu de l'application](designFlutter.PNG)
+
+
 ## Design for Xmind
 
 You can view the application's design here :  
