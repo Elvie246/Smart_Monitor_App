@@ -7,10 +7,6 @@ A new Flutter project.
 You can view the application's design here :  
 (https://xmind.ai/share/POXP1KKa)
 
-## Design for Figma
-
-You can view the application's design here :  
-(https://www.figma.com/design/ExQhUVxst5Fb7ING7BKR11/Flutter_Project?node-id=6-97&t=KszApDfOJunmlVkK-1)
 
 ## Getting Started
 
